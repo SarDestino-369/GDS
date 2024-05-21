@@ -1,0 +1,38 @@
+graph TD;
+    A[Configuração da Vakinha] --> B[Completar Perfil]
+    A --> C[Criar Campanha]
+    A --> D[Adicionar Links Redes Sociais]
+    E[Preparação do Conteúdo] --> F[Redigir Post Principal]
+    E --> G[Criar Vídeos Curtos]
+    E --> H[Produzir Imagens Atraentes]
+    I[Divulgação nas Redes Sociais] --> J[Postar no Instagram]
+    I --> K[Postar no Facebook]
+    I --> L[Criar Stories no Instagram]
+    I --> M[Criar Stories no Facebook]
+    I --> N[Usar Instagram Reels]
+    I --> O[Participar em Lives]
+    P[Envolvimento da Comunidade] --> Q[Encorajar Compartilhamentos]
+    P --> R[Interagir com Comentários]
+    P --> S[Agradecimentos Públicos]
+    T[Monitoramento e Ajustes] --> U[Monitorar Progresso]
+    T --> V[Analisar Feedback]
+    T --> W[Ajustar Conteúdo]
+    
+    B --> E
+    C --> E
+    D --> E
+    F --> I
+    G --> I
+    H --> I
+    J --> P
+    K --> P
+    L --> P
+    M --> P
+    N --> P
+    O --> P
+    Q --> T
+    R --> T
+    S --> T
+    U --> E
+    V --> E
+    W --> E
